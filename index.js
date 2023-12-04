@@ -20,7 +20,10 @@ function mostRepeatedLetter(text) {
         }
     });
 
-    return mostRepeated;
+    return {
+        mostRepeated: mostRepeated,
+        numOfRepetition: maxCount
+    };
 }
 
 module.exports = mostRepeatedLetter
