@@ -11,4 +11,4 @@ This is a Node.js project for the task1 assignment.
 To install the dependencies, run the following command:
 
 ```bash
-npm install
+npm i nodejs-task1
