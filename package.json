@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-task1",
+  "version": "1.0.0",
+  "description": "just doing homework :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshenytska-nadia/nodejs-task1.git"
+  },
+  "keywords": [
+    "nothing serious",
+    "most",
+    "repeat",
+    "letter",
+    "most repeated letter",
+    "text"
+  ],
+  "author": "Nadiia Pshenytska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshenytska-nadia/nodejs-task1/issues"
+  },
+  "homepage": "https://github.com/pshenytska-nadia/nodejs-task1#readme"
+}
